@@ -1,0 +1,14 @@
+﻿<Application x:Class="DirectxWpf.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:DirectxWpf"
+             xmlns:viewModel = "clr-namespace:DirectxWpf.MVVM_ViewModel"             
+             StartupUri="MVVM_View/MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <viewModel:MainWindowViewModel x:Key="mainViewModel" />
+            <viewModel:SnapWindowViewModel x:Key="snapViewModel" />
+        </ResourceDictionary>
+        
+    </Application.Resources>
+</Application>

@@ -1,0 +1,56 @@
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\Resources\ColorShader.fx
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\Resources\Arrow.ovm
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\Resources\RotationGizmo.ovm
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\Resources\ScaleArrow.ovm
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\Resources\Teapot.ovm
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\Resources\PosColNorm3D.fx
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\DaeSharpWpf.dll
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\GalaSoft.MvvmLight.dll
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\SharpDX.D3DCompiler.dll
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\SharpDX.Direct3D10.dll
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\SharpDX.Direct3D11.dll
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\SharpDX.DirectInput.dll
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\SharpDX.dll
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\SharpDX.DXGI.dll
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\System.Windows.Interactivity.dll
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\DaeSharpWpf.pdb
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\GalaSoft.MvvmLight.pdb
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\GalaSoft.MvvmLight.xml
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\SharpDX.xml
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\SharpDX.D3DCompiler.xml
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\SharpDX.Direct3D10.xml
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\SharpDX.Direct3D11.xml
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\SharpDX.Direct3D9.xml
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\SharpDX.DirectInput.xml
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\SharpDX.DXGI.xml
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\obj\Release\LevelEditor.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\obj\Release\MVVM_View\MainWindow.baml
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\obj\Release\MVVM_View\SnapWindow.baml
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\obj\Release\App.baml
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\obj\Release\MVVM_View\MainWindow.g.cs
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\obj\Release\MVVM_View\SnapWindow.g.cs
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\obj\Release\App.g.cs
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\obj\Release\LevelEditor.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\Level Editor.exe.config
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\Level Editor.exe
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\Level Editor.pdb
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\obj\Release\Level Editor_Content.g.cs
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\obj\Release\Level Editor_MarkupCompile.cache
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\obj\Release\Level Editor_MarkupCompile.lref
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\obj\Release\Level Editor.g.resources
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\obj\Release\Level Editor.exe
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\obj\Release\Level Editor.pdb
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\obj\Release\DirectxWpf.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\LevelEditor.exe.config
+C:\Users\Jonathan\Desktop\Week_10_-_DX\demo\DirectxWpf\DirectxWpf\bin\Release\DirectxWpf.exe.config
